@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.portfolio {
+    background-color: #1f2933;
+}
+
+.fact {
+    color: #cced00;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.about {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.photo {
+    border-radius: 100px;
+}
+
+.bio {
+    color: #9aa5b1;
+    font-family: Roboto;
+
+    font-size: 15px;
+}
+
+.two-container {
+    background-color: #323f4b;
+    width: 300vh;
+    background-size: cover;
+}
+
+.small-container {
+    background-color: #1f2933;
+    border-radius: 10px;
+    padding: 15px;
+}
+.portfolio {
+    background-color: #52606d;
+}
+
+.heading {
+    color: #cced00;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.head {
+    color: white;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.bg-container {
+    background-color: #323f4b;
+}
+
+.staticwebsites {
+    color: white;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.paragraph {
+    color: #9aa5b1;
+    font-family: Roboto;
+}
+
+.image {
+    height: 30px;
+    width: 30px;
+}
+
+.bg-container {
+    border-radius: 10px;
+}
+.bg-container {
+    background-color: #3e4c59;
+
+}
+
+.heading-1 {
+    color: #cced00;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.heading-2 {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.bg-container-2 {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.paragraph {
+    color: #9aa5b1;
+    font-size: 10px;
+    font-family: Roboto;
+}
+
+.heading-3 {
+    color: white;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.paragraph-2 {
+    color: #9aa5b1;
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+.heading-4 {
+    color: #cced00;
+    font-family: Roboto;
+    font-size: 10px;
+    font-weight: bold;
+}
+.skills-bg{
+    background-color: #1f2933;
+    width: 100vw;
+    border-radius: 20px;
+}
+.html-css{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    
+}
+.html-css-bg{
+    background-color: #323f4b;
+    border-radius: 20px;
+}
